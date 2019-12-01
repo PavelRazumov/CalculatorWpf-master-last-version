@@ -1,0 +1,42 @@
+C:\Users\pawra\Desktop\Новая папка\CalculatorWpf\bin\Debug\CalculatorWpf.exe.config
+C:\Users\pawra\Desktop\Новая папка\CalculatorWpf\bin\Debug\CalculatorWpf.exe
+C:\Users\pawra\Desktop\Новая папка\CalculatorWpf\bin\Debug\CalculatorWpf.pdb
+C:\Users\pawra\Desktop\Новая папка\CalculatorWpf\obj\Debug\CalculatorWpf.csprojAssemblyReference.cache
+C:\Users\pawra\Desktop\Новая папка\CalculatorWpf\obj\Debug\MainWindow.g.cs
+C:\Users\pawra\Desktop\Новая папка\CalculatorWpf\obj\Debug\App.g.cs
+C:\Users\pawra\Desktop\Новая папка\CalculatorWpf\obj\Debug\CalculatorWpf_MarkupCompile.cache
+C:\Users\pawra\Desktop\Новая папка\CalculatorWpf\obj\Debug\CalculatorWpf_MarkupCompile.lref
+C:\Users\pawra\Desktop\Новая папка\CalculatorWpf\obj\Debug\MainWindow.baml
+C:\Users\pawra\Desktop\Новая папка\CalculatorWpf\obj\Debug\CalculatorWpf.g.resources
+C:\Users\pawra\Desktop\Новая папка\CalculatorWpf\obj\Debug\CalculatorWpf.Properties.Resources.resources
+C:\Users\pawra\Desktop\Новая папка\CalculatorWpf\obj\Debug\CalculatorWpf.csproj.GenerateResource.cache
+C:\Users\pawra\Desktop\Новая папка\CalculatorWpf\obj\Debug\CalculatorWpf.exe
+C:\Users\pawra\Desktop\Новая папка\CalculatorWpf\obj\Debug\CalculatorWpf.pdb
+C:\Users\para1118\Desktop\C#\CalculatorWpf\bin\Debug\CalculatorWpf.exe.config
+C:\Users\para1118\Desktop\C#\CalculatorWpf\bin\Debug\CalculatorWpf.exe
+C:\Users\para1118\Desktop\C#\CalculatorWpf\bin\Debug\CalculatorWpf.pdb
+C:\Users\para1118\Desktop\C#\CalculatorWpf\obj\Debug\CalculatorWpf.csprojAssemblyReference.cache
+C:\Users\para1118\Desktop\C#\CalculatorWpf\obj\Debug\MainWindow.g.cs
+C:\Users\para1118\Desktop\C#\CalculatorWpf\obj\Debug\App.g.cs
+C:\Users\para1118\Desktop\C#\CalculatorWpf\obj\Debug\CalculatorWpf_MarkupCompile.cache
+C:\Users\para1118\Desktop\C#\CalculatorWpf\obj\Debug\CalculatorWpf_MarkupCompile.lref
+C:\Users\para1118\Desktop\C#\CalculatorWpf\obj\Debug\MainWindow.baml
+C:\Users\para1118\Desktop\C#\CalculatorWpf\obj\Debug\CalculatorWpf.g.resources
+C:\Users\para1118\Desktop\C#\CalculatorWpf\obj\Debug\CalculatorWpf.Properties.Resources.resources
+C:\Users\para1118\Desktop\C#\CalculatorWpf\obj\Debug\CalculatorWpf.csproj.GenerateResource.cache
+C:\Users\para1118\Desktop\C#\CalculatorWpf\obj\Debug\CalculatorWpf.exe
+C:\Users\para1118\Desktop\C#\CalculatorWpf\obj\Debug\CalculatorWpf.pdb
+C:\Users\pawra\Desktop\Новая папка\CalculatorWpf-maste\CalculatorWpf-master\bin\Debug\CalculatorWpf.exe.config
+C:\Users\pawra\Desktop\Новая папка\CalculatorWpf-maste\CalculatorWpf-master\bin\Debug\CalculatorWpf.exe
+C:\Users\pawra\Desktop\Новая папка\CalculatorWpf-maste\CalculatorWpf-master\bin\Debug\CalculatorWpf.pdb
+C:\Users\pawra\Desktop\Новая папка\CalculatorWpf-maste\CalculatorWpf-master\obj\Debug\CalculatorWpf.csprojAssemblyReference.cache
+C:\Users\pawra\Desktop\Новая папка\CalculatorWpf-maste\CalculatorWpf-master\obj\Debug\MainWindow.g.cs
+C:\Users\pawra\Desktop\Новая папка\CalculatorWpf-maste\CalculatorWpf-master\obj\Debug\App.g.cs
+C:\Users\pawra\Desktop\Новая папка\CalculatorWpf-maste\CalculatorWpf-master\obj\Debug\CalculatorWpf_MarkupCompile.cache
+C:\Users\pawra\Desktop\Новая папка\CalculatorWpf-maste\CalculatorWpf-master\obj\Debug\CalculatorWpf_MarkupCompile.lref
+C:\Users\pawra\Desktop\Новая папка\CalculatorWpf-maste\CalculatorWpf-master\obj\Debug\MainWindow.baml
+C:\Users\pawra\Desktop\Новая папка\CalculatorWpf-maste\CalculatorWpf-master\obj\Debug\CalculatorWpf.g.resources
+C:\Users\pawra\Desktop\Новая папка\CalculatorWpf-maste\CalculatorWpf-master\obj\Debug\CalculatorWpf.Properties.Resources.resources
+C:\Users\pawra\Desktop\Новая папка\CalculatorWpf-maste\CalculatorWpf-master\obj\Debug\CalculatorWpf.csproj.GenerateResource.cache
+C:\Users\pawra\Desktop\Новая папка\CalculatorWpf-maste\CalculatorWpf-master\obj\Debug\CalculatorWpf.exe
+C:\Users\pawra\Desktop\Новая папка\CalculatorWpf-maste\CalculatorWpf-master\obj\Debug\CalculatorWpf.pdb
